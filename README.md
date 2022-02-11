@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Evlona</h1>
 <h3 align="center">A Self taught Developer</h3>
 
-- ❤️ low-level prgraming and challenges
+- ❤️ low-level programming and challenges
 - 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **Anything**
